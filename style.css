@@ -1,0 +1,175 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    z-index: -1px;
+}
+.nab {
+background-color: black;
+text-align: center;
+
+margin: 5px;
+}
+.nab a{
+    text-decoration: none;
+    padding: 11px;
+    
+
+}
+.nab a:hover{
+background-color: aqua;
+}
+.batnnn a {
+    margin-right: 10px;
+}
+.box{
+    background-color: rgb(0, 255, 170);
+    width: 800px;
+    height: 280px;
+    margin-left: 600px;
+    margin-top: 100px;
+    
+}
+.box1{
+    background-color: aliceblue;
+    width: 300px;
+    height: 280px;
+    margin-left: 1050px;
+    margin-top: -350px;
+    text-align: center;
+}
+.box1 a{
+    text-decoration: none;
+}
+.btn {
+    background-color: black;
+    color: rgb(234, 10, 10);
+  margin-left:100px;
+  padding: 7px;
+}
+
+.btn :hover{
+background-color: aqua;
+}
+    
+.imgg img{
+margin-left: 550px;
+margin-top: -350px;
+width:500px ;
+height: 330px;
+}
+
+.center {
+background-color: black;
+color: aliceblue;
+    width: 1000px;
+    height: 200px;
+    margin-left: 250px;
+  
+}
+.center a{
+    text-decoration: none;
+   
+}
+.text{
+margin-right: 250px;
+    text-align: center;
+}
+.btn1{
+margin-left: 800px;
+padding: 7px;
+background-color:rgb(5, 246, 5)
+}
+.btn1:hover{
+background-color: aqua;
+}
+.mitile{
+    width: auto;
+    height: 550px;
+    background-color: rgb(220, 215, 215);
+}
+.best{
+    width: 43%;
+margin-left: 80px;
+
+
+}
+.boxs{
+    width: 50%;
+    height: 400px;
+    float: right;
+    margin-top: -222px;
+}
+.one{
+    width: 250px;
+    height: 145px;
+    background-color: mediumspringgreen;
+}
+.two{
+    width:250px ;
+    height: 145px;
+    background-color: mediumspringgreen;
+}
+.three{
+    width: 250px;
+    height:145px;
+    background-color: mediumspringgreen;
+}
+.four{
+    width: 250px;
+    height: 145px;
+    float: right;
+    margin-top:-479px ;
+    background-color: mediumspringgreen;
+    margin-right: 250px;
+}
+.five{
+    width:250px ;
+    height:145px ;
+    background-color: mediumspringgreen;
+    float: right;
+    margin-top:-310px ;
+    margin-right: 250px;
+}
+.six{
+    width:250px ;
+    height:145px ;
+    background-color: mediumspringgreen;
+    float: right; 
+    margin-top: -144px;
+    margin-right: 250px;
+}
+.first{
+width: 400px;
+height: 250px;
+background-color: mediumspringgreen;
+text-align: center;
+margin-left: 400px;
+}
+.btn3{
+    width: 110px;
+   height: 38px;
+   background-color: black;
+   color: white;
+}
+.lest{
+
+    width: 300px;
+    height: 100px;
+    margin-top: -200px;
+    margin-left: 800px;
+}
+img{
+    margin-top: -50px;
+    width: 300px;
+    height: 150px;
+margin-left: -0px;
+background-color: darkgrey;
+}
+.typ{
+    width: 300px;
+    height: 100px;
+}
+
+
+
